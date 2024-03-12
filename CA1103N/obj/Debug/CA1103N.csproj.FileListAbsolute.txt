@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\CA1103N\CA1103N\bin\Debug\CA1103N.exe.config
+C:\Users\Tecnico\source\repos\CA1103N\CA1103N\bin\Debug\CA1103N.exe
+C:\Users\Tecnico\source\repos\CA1103N\CA1103N\bin\Debug\CA1103N.pdb
+C:\Users\Tecnico\source\repos\CA1103N\CA1103N\obj\Debug\CA1103N.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\CA1103N\CA1103N\obj\Debug\CA1103N.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\CA1103N\CA1103N\obj\Debug\CA1103N.exe
+C:\Users\Tecnico\source\repos\CA1103N\CA1103N\obj\Debug\CA1103N.pdb
